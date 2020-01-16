@@ -1,3 +1,9 @@
+# images
+
+![](assets/images/todo1.jpg)
+
+
+
 # todo-app
 Todo App using React Native
 
@@ -15,3 +21,5 @@ Mobile Device
 
 Download Expo app.
 Scan QR code from mobile or Open explore tab, Press search and Enter url shown in terminal.
+
+
