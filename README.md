@@ -1,6 +1,6 @@
 # images
 
-<img src="assets/images/todo1.PNG" width="100" height="200">
+<img src="assets/images/todo1.PNG" width="200" height="300">
 
 
 
