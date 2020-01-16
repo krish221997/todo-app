@@ -1,6 +1,6 @@
 # images
 
-![](assets/images/todo1.PNG)
+![](assets/images/todo1.PNG){:height="24px" width="48px"}
 
 
 
