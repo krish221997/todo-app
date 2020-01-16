@@ -1,6 +1,6 @@
 # images
 
-![](assets/images/todo1.PNG){:height="24px" width="48px"}
+<img src="assets/images/todo1.PNG" width="24" height="48">
 
 
 
