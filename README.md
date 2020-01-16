@@ -1,8 +1,8 @@
 # images
 
-<img src="assets/images/todo1.PNG" width="200" height="400">
-
-
+<img src="assets/images/todo1.PNG" width="250" height="500">
+<img src="assets/images/todo2.PNG" width="250" height="500">
+<img src="assets/images/todo3.PNG" width="250" height="500">
 
 # todo-app
 Todo App using React Native
