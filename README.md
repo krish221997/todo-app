@@ -1,4 +1,25 @@
 
+# todo-app
+Todo App using React Native and Redux
+
+
+How to Setup:
+
+a.Clone & install
+
+1. Clone the repo.
+2. Go to the app directory.
+3. Run npm install.
+4. Run npm start.
+
+b.Mobile Device
+
+Download Expo app.
+Scan QR code from mobile or Open explore tab, Press search and Enter url shown in terminal.
+
+React Native is Used for Front End Operations with Redux as a global state manager.
+
+
 # Functionality of the Todo App
 
 1. The Home Screen(Todo List Tab) is a Todo List where you can add todos.
@@ -16,22 +37,6 @@
 <img src="assets/images/todo2.PNG" width="250" height="500">
 <img src="assets/images/todo3.PNG" width="250" height="500">
 
-# todo-app
-Todo App using React Native
 
-
-How to Setup:
-
-Clone & install
-
-1. Clone the repo.
-2. Go to the app directory.
-3. Run npm install.
-4. Run npm start.
-
-Mobile Device
-
-Download Expo app.
-Scan QR code from mobile or Open explore tab, Press search and Enter url shown in terminal.
 
 
